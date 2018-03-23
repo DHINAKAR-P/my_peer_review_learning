@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 86">
+  <title>Asset 9</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="_nav_UPDATE" data-name="#nav UPDATE">
+      <g>
+        <rect width="80" height="86" fill="#fff"/>
+        <g>
+          <path id="_Compound_Path_" data-name="&lt;Compound Path&gt;" d="M70.8,75.6A2.4,2.4,0,1,1,73.2,78,2.3,2.3,0,0,1,70.8,75.6Zm2.4,2a1.9,1.9,0,0,0,1.9-2,1.9,1.9,0,0,0-1.9-1.9,1.8,1.8,0,0,0-1.9,1.9A1.9,1.9,0,0,0,73.2,77.6Zm-.5-.6h-.4V74.3h1c.6,0,1,.2,1,.8a.6.6,0,0,1-.7.7l.7,1.2h-.4l-.7-1.2h-.5Zm.5-1.5c.3,0,.6,0,.6-.5s-.3-.4-.6-.4h-.5v.9Z" fill="#005cb9"/>
+          <rect id="_Path_" data-name="&lt;Path&gt;" x="11.1" y="8" width="57.8" height="60.67" fill="#005cb9"/>
+          <rect id="_Path_2" data-name="&lt;Path&gt;" x="11.1" y="73.4" width="57.8" height="4.57" fill="#e1251b"/>
+          <path id="_Path_3" data-name="&lt;Path&gt;" d="M52.7,58.8a8,8,0,0,0,7.9-7.9V43.3c0-5.1-2.2-9.1-7.9-9.1H33V28.8H58.4V17.9H28.7a7.9,7.9,0,0,0-7.9,7.8v8.8c0,5,2.1,8.8,7.9,8.8H48.4v5.3H20.8V58.8Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
